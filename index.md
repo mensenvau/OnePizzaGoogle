@@ -10,11 +10,13 @@ hash code `Pizz One` savoli judda ham qizqarli topshiriq boshida g'oya yo'q edi 
 
  
 ```markdown
- Testlar:
+
+Testlar:
 # A - oson buni hal qila olasiz . 
 # B - bu shunchaki barcha masaliqlar qo'shish kerag edi . 
 # C - 10ta xaridor edi va bu unchalik murakab emas agar siz dynamic yoki recursiv funksiya yoz olsangiz . 
 # D, E - bu esa haqiqiy topshiriq . 
- 
+
+```
  
 _Bu shunchaki tasurotlar edi @mensenvau_ 
