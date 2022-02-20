@@ -17,4 +17,4 @@ hash code `Pizz One` savoli judda ham qizqarli topshiriq boshida g'oya yo'q edi 
 # D, E - bu esa haqiqiy topshiriq . 
  
  
-_Bu shunchaki tasurotlar edi @mensenvau _ 
+_Bu shunchaki tasurotlar edi @mensenvau_ 
